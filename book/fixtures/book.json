@@ -1,0 +1,38 @@
+[
+  {
+    "model": "book.book",
+    "pk": 1,
+    "fields": {
+      "title": "Book 1",
+      "publish_date": "2025-05-04",
+      "price":10.99,
+      "rating":5,
+      "author":"1",
+      "publisher":"2"
+    }
+  },
+    {
+    "model": "book.book",
+    "pk": 2,
+    "fields": {
+      "title": "Book 2",
+      "publish_date": "2025-05-04",
+      "price":10.99,
+      "rating":8,
+      "author":"1",
+      "publisher":"1"
+    }
+  },
+    {
+    "model": "book.book",
+    "pk": 3,
+    "fields": {
+      "title": "Book 3",
+      "publish_date": "2025-05-04",
+      "price":10.99,
+      "rating":3,
+      "author":"2",
+      "publisher":"2"
+    }
+  }
+]

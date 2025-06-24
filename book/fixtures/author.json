@@ -1,0 +1,16 @@
+[
+  {
+    "model": "book.author",
+    "pk": 1,
+    "fields": {
+        "name": "Avishek Das"
+    }
+  },
+  {
+    "model": "book.author",
+    "pk": 2,
+    "fields": {
+      "name": "Bubai Das"
+    }
+  }
+]

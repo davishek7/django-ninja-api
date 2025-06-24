@@ -1,0 +1,16 @@
+[
+  {
+    "model": "book.publisher",
+    "pk": 1,
+    "fields": {
+        "name": "Publisher 1"
+    }
+  },
+  {
+    "model": "book.publisher",
+    "pk": 2,
+    "fields": {
+      "name": "Publisher 2"
+    }
+  }
+]
